@@ -266,8 +266,8 @@ ENV \
     # TODO: CONDA_DIR is deprecated and should be removed in the future
     CONDA_DIR=/opt/conda \
     CONDA_ROOT=/opt/conda \
-    PYTHON_VERSION="3.8.10" \
-    CONDA_PYTHON_DIR=/opt/conda/lib/python3.8 \
+    PYTHON_VERSION="3.9" \
+    CONDA_PYTHON_DIR=/opt/conda/lib/python3.9 \
     MINICONDA_VERSION=4.9.2 \
     MINICONDA_MD5=122c8c9beb51e124ab32a0fa6426c656 \
     CONDA_VERSION=4.9.2
